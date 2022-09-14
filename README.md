@@ -1,6 +1,6 @@
 Hi , I'm Premanand Gaikwad 👋</h1>
 
-I am Premanand from Nashik, Maharashtra. I am a technology enthusiast, competent, well-focused Data Scientist Enthusiest.
+I am Premanand from Ahmednagar, Maharashtra. I am a technology enthusiast, competent, well-focused Data Scientist Enthusiest.
 
 I am passionate about working on Machine Learning Project. 
 
